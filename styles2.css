@@ -1,0 +1,29 @@
+.area{
+    height:100px;
+    max-width:400px;
+    border:1px solid black;
+    padding:10px;
+    margin:10px;
+}
+.imagepanel{
+    position: absolute;
+    height:640px;
+    overflow-y: scroll;
+    text-align: center;
+}
+.morewidth{
+    width:300px;
+}
+
+.main_canvas{
+    border:1px solid black;
+}
+
+.fitToScreen{
+    max-width:100%;
+    max-height: 100%;
+}
+
+.canvasclass{
+    text-align:center;
+}
